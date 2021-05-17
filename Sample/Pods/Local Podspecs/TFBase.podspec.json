@@ -1,0 +1,22 @@
+{
+  "name": "TFBase",
+  "version": "1.0.0",
+  "homepage": "https://thoughtful.community",
+  "authors": {
+    "Brian Amerige": "brian@thoughtful.community"
+  },
+  "summary": "TFBase",
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Source/**/*.{h,m}",
+  "static_framework": true,
+  "dependencies": {
+    "Firebase/Analytics": [
+
+    ]
+  }
+}
